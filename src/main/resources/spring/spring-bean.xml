@@ -6,4 +6,5 @@
 
 	<import resource="spring-dao.xml" />
 	<import resource="spring-tx.xml" />
+	<import resource="spring-rabbit.xml" />
 </beans>
